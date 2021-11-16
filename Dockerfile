@@ -1,6 +1,4 @@
 # Pull base image 
-From tomcat:8-jre8 
-
-# Maintainer 
-MAINTAINER "valaxytech@gmail.com" 
+From tomcat:9.0.55-jre11-temurin-focal
+ 
 COPY ./webapp.war /usr/local/tomcat/webapps
