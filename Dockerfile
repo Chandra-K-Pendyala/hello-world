@@ -1,5 +1,5 @@
 # Pull base image 
-From tomcat:8.5
+FROM tomcat:8.5
 RUN apt-get update && \
   apt-get install -y \
     net-tools \
