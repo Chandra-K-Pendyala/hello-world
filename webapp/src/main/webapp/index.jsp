@@ -1,2 +1,2 @@
-<h1> Hello, Welcome... !!!: webapp/src/main/webapp/index.jsp </h1>
+<h1> Hello, Welcome... !!! </h1>
 
