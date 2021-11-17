@@ -1,4 +1,4 @@
 # Pull base image 
-From tomcat:9.0.55-jre11-temurin-focal
+From tomcat:9-jre8
  
 COPY ./webapp.war /usr/local/tomcat/webapps
